@@ -4,3 +4,4 @@ Please show your support to the contributor by subscribing to this channel.
 
 #### Table of Contents
 1. [Strategy Design Pattern](/StrategyPattern)
+2. [Visitor Design Pattern](/VisitorPattern)
