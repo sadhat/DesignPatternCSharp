@@ -1,4 +1,4 @@
-public class InsuranceMessagingVisitor: Visitor
+public class InsuranceMessagingVisitor: IVisitor
 {
     public void SendInsuranceMails(List<Client> clients)
     {

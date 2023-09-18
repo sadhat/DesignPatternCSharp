@@ -1,4 +1,4 @@
-public interface Visitor
+public interface IVisitor
 {
     void VisitBank(Client client);
 
