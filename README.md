@@ -6,3 +6,4 @@ Please show your support to the contributor by subscribing to this channel.
 1. [Strategy Design Pattern](/StrategyPattern)
 2. [Decorator Design Pattern](/DecoratorPattern)
 3. [Visitor Design Pattern](/VisitorPattern)
+4. [Mediator Design Pattern](/MediatorPattern)
